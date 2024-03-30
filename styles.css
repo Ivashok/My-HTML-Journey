@@ -1,0 +1,29 @@
+html
+{
+    background:#F9EBF3;
+}
+p
+{
+    color:#00493A;
+    font-family:verdana;
+    font-size:15px;
+}
+h1
+{
+    color:#354A18;
+    text-align:center;
+    font: size 28px;;
+    font-family:verdana;
+}
+img
+{
+    width:400px;
+    height:400px;
+border-width:10px; border-style:solid; border-color:#00A385; 
+}
+li
+{
+    color:#00493A;
+    font-family:verdana;
+    font-size:15px;
+}
